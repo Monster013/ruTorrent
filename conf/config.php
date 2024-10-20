@@ -43,7 +43,7 @@
 	// (scgi_local in rtorrent conf file), change variables
 	// above to something like this:
 	//
-	// $scgi_port = 0;
+	$scgi_port = 0;
 	$scgi_host = "unix:///content/Tools/rTorrent/rtorrent.sock";
 
 	$XMLRPCMountPoint = "/RPC2";		// DO NOT DELETE THIS LINE!!! DO NOT COMMENT THIS LINE!!!
